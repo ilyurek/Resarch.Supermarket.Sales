@@ -1,0 +1,1 @@
+# Resarch.Supermarket.Sales
