@@ -1,4 +1,4 @@
-# [Research.Supermarket.Sales](https://ilyure.github.io/Research.Supermarket.Sales/)
+# Research.Supermarket.Sales
 
 Research with statistical analysis on R to better understand supermarket customers' behaviour.
 
